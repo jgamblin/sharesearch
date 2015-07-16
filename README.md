@@ -1,10 +1,11 @@
 # sharesearch
-sharesearch.py is python script To search shares for keywords. 
+sharesearch.py is python script to search shares (or directories) for keywords. 
 
 ##Usage
 python sharesearch.py
 
 shares.txt  < Put the shares (or directories) you want to search in this file. 
+
 searchterms.txt < Put what you want to find in this file. 
 
 ##Important Notice
