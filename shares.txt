@@ -1,0 +1,3 @@
+Your Shares Go in here.
+/Volumes/Share (For OSX)
+\\Share (For Windows)
